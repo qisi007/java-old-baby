@@ -13,6 +13,12 @@ java学习仓库-记录java学习日常
 
 - [01-springBoot简介](./docs/01-springBoot-start.md)
 - [02-springBoot整合其他框架](./docs/02-springBoot整合其他框架.md)
-- [02-yaml语法](./docs/03-yaml语法.md)
+- [03-yaml语法](./docs/03-yaml语法.md)
+- [04-springBoot自动配置-Condition](./docs/04-springBoot自动配置-Condition.md)
+
+
+#### 其他笔记
+
+- [other-idea快捷键大全](./docs/other-idea快捷键大全.md)
 
 
