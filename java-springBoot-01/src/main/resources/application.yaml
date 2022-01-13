@@ -1,0 +1,21 @@
+
+
+server:
+  port: 8088
+spring:
+  porfiles: dev
+
+  redis:
+    host: 127.0.0.1  # redis的主机
+    port: 6379 # redis的端口号
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///test?serverTimezone=UTC  # 本地的可以用///表示
+    username: root
+    password: root
+
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+  type-aliases-package: com.example.javaspringboot.domain
+# config-location: # 指定mybatis的核心配置文件
