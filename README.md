@@ -7,6 +7,7 @@ java学习仓库-记录java学习日常
 
 - [Spring Boot框架入门教程（快速学习版）](http://c.biancheng.net/spring_boot/)
 - [Windows 安装 mysql](https://blog.csdn.net/zhouzezhou/article/details/52446608)
+- [什么是IOC容器](https://www.jb51.net/article/88132.htm)
 
 
 #### 笔记
@@ -15,6 +16,7 @@ java学习仓库-记录java学习日常
 - [02-springBoot整合其他框架](./docs/02-springBoot整合其他框架.md)
 - [03-yaml语法](./docs/03-yaml语法.md)
 - [04-springBoot自动配置-Condition](./docs/04-springBoot自动配置-Condition.md)
+- [05-springBoot切换web服务器](./docs/05-springBoot切换web服务器.md)
 
 
 #### 其他笔记
