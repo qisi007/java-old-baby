@@ -17,6 +17,7 @@ java学习仓库-记录java学习日常
 - [03-yaml语法](./docs/03-yaml语法.md)
 - [04-springBoot自动配置-Condition](./docs/04-springBoot自动配置-Condition.md)
 - [05-springBoot切换web服务器](./docs/05-springBoot切换web服务器.md)
+- [06-Enable注解原理](./docs/06-Enable注解原理.md)
 
 
 #### 其他笔记
