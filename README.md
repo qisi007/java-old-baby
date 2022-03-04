@@ -18,6 +18,9 @@ java学习仓库-记录java学习日常
 - [04-springBoot自动配置-Condition](./docs/04-springBoot自动配置-Condition.md)
 - [05-springBoot切换web服务器](./docs/05-springBoot切换web服务器.md)
 - [06-Enable注解原理](./docs/06-Enable注解原理.md)
+- [07-Import注解详解](./docs/07-Import注解详解.md)
+- [08-EnableAutoConfiguration注解](./docs/08-EnableAutoConfiguration注解.md)
+- [09-自定义starter](./docs/09-自定义starter.md)
 
 
 #### 其他笔记
